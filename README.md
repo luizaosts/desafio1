@@ -47,5 +47,5 @@ Este projeto demonstra minhas habilidades em análise de dados, visualização d
 
 Este projeto demonstra minha capacidade de aplicar habilidades de análise de dados, visualização de dados e modelagem preditiva para resolver problemas reais de negócios. Acredito que minhas habilidades e experiência podem agregar muito valor a sua equipe e estou ansioso para discutir como posso contribuir para o sucesso da sua empresa.
 
-### Você pode ver meu trabalho aqui: 
+### Você também pode ver meu trabalho aqui: 
 https://1drv.ms/u/s!Aq9GYBLwEht9gU_Y47qwUKYazwjg
