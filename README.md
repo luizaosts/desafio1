@@ -24,28 +24,5 @@ Este projeto demonstra minhas habilidades em análise de dados, visualização d
     *   Construção de relatórios e dashboards interativos.
     *   Publicação e compartilhamento dos dashboards.
 
-## Metodologia
-
-1.  **Coleta e Preparação dos Dados:**
-    *   Importação das bases de dados (vendas e clientes) para o Power BI.
-    *   Limpeza e transformação dos dados para garantir a consistência e qualidade das informações.
-    *   Criação de uma coluna de "faixa de renda" na base de clientes, agrupando os clientes em diferentes categorias de renda.
-2.  **Construção dos Dashboards:**
-    *   Criação de duas páginas no Power BI: "Visão do Cliente" e "Visão da Compra".
-    *   Criação de cartões com os principais KPIs, como quantidade total de vendas, valor total de vendas, quantidade de clientes e média de renda dos clientes.
-    *   Criação de gráficos de linhas para mostrar a evolução das vendas ao longo do tempo.
-    *   Criação de gráficos de barras para comparar as vendas por categoria e a distribuição de idade e renda dos clientes.
-    *   Implementação de filtros para permitir que os usuários segmentem os dados por diferentes critérios (bandeira, estado, canal de venda, departamento, idade, faixa de renda, etc.).
-3.  **Modelagem Preditiva (Regressão Linear):**
-    *   Utilização do Power BI para criar um modelo de regressão linear que preveja o faturamento do e-commerce com base nos dados históricos.
-    *   Análise das métricas obtidas
-4.  **Interpretação e Insights:**
-    *   Transformar os dados em informação e posterior conhecimento sobre a base utilizada
-    *   Elaboração das estratégias a serem tomadas
-
-## Conclusão
-
-Este projeto demonstra minha capacidade de aplicar habilidades de análise de dados, visualização de dados e modelagem preditiva para resolver problemas reais de negócios. Acredito que minhas habilidades e experiência podem agregar muito valor a sua equipe e estou ansioso para discutir como posso contribuir para o sucesso da sua empresa.
-
 ### Você também pode ver meu trabalho aqui: 
 https://1drv.ms/u/s!Aq9GYBLwEht9gU_Y47qwUKYazwjg
